@@ -33,10 +33,10 @@ I am a self taught programmer with a love for Python:
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisGarey&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChrisGarey&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cgarey2014&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cgarey2014&theme=tokyonight)](https://git.io/streak-stats)
 <br>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisGarey&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgarey2014&theme=tokyonight)
 
 
 
