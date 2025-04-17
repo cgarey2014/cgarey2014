@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hi, I'm **Cosmo**!
+👋 Hi, I'm **Chris**!
 
 I am a passionate cybersecurity enthusiast, and I love working with Linux. I have experience with various Linux distributions including **Ubuntu**, **Debian**, **Arch**, and **Linux Mint**. I am also skilled in **Bash scripting** and constantly learning new things to improve my technical abilities.
 
