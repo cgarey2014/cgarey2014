@@ -1,4 +1,5 @@
-# About Me
+<img src="assets/banner.jpg" alt="cover" style="width:50%;" />
+
 
 👋 Hi, I'm **Chris**!
 
