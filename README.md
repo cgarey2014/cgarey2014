@@ -1,4 +1,4 @@
-<img src="assets/banne.jpg" alt="cover" style="width:100%;" />
+<img src="assets/banner.jpg" alt="cover" style="width:100%;" />
 
 
 👋 Hi, I'm **Chris**!
