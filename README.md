@@ -27,7 +27,7 @@ I am a passionate cybersecurity enthusiast, and I love working with Linux. I hav
 ## 📊 GitHub Stats:
 <div align="center">
   
-![Chris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cgarey2014&show_icons=true&theme=github_dark&hide_title=true)
+![Chris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cgarey2014&show_icons=true&theme=terminal&hide_title=true)
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cgarey2014&layout=compact&theme=github_dark)
 
