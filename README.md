@@ -24,6 +24,15 @@ I am a passionate cybersecurity enthusiast, and I love working with Linux. I hav
 - **Cybersecurity** (Penetration Testing, Vulnerability Analysis)
 - **Bash Scripting**
 
+## 📊 GitHub Stats:
+<div align="center">
+  
+![Chris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cgarey2014&show_icons=true&theme=github_dark&hide_title=true)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cgarey2014&layout=compact&theme=github_dark)
+
+</div>
+
 ## 📫 How to reach me:
 - **Email**: [chrisgarey2014@gmail.com](mailto:chrisgarey2014@example.com)
 - **LinkedIn**: [Cosmo's LinkedIn](https://www.linkedin.com/in/chris-garey/)
