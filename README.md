@@ -35,6 +35,6 @@ I am a passionate cybersecurity enthusiast, and I love working with Linux. I hav
 
 ## 📫 How to reach me:
 - **Email**: [chrisgarey2014@gmail.com](mailto:chrisgarey2014@example.com)
-- **LinkedIn**: [Cosmo's LinkedIn](https://www.linkedin.com/in/chris-garey/)
-- **GitHub**: [@cosmo](https://github.com/cgarey2014)
+- **LinkedIn**: [Chris' LinkedIn](https://www.linkedin.com/in/chris-garey/)
+- **GitHub**: [@cgarey2014](https://github.com/cgarey2014)
 
