@@ -86,7 +86,7 @@ The one on GitHub right now is **[Marauder Mini v3 — Cyberpunk Edition](https:
 <img src="https://streak-stats.demolab.com?user=cgarey2014&hide_border=true&background=0A0F14&ring=39FF14&fire=FF3D71&currStreakNum=39FF14&currStreakLabel=39FF14&sideNums=E6EDF3&sideLabels=C9D1D9&dates=8B949E" alt="Contribution streak" />
 
 </div>
-[![WDGWars](https://wdgwars.pl/card/5144-CUQZFGGE.svg)](https://wdgwars.pl/)
+
 ## 📫 How to reach me
 
 <div align="center">
@@ -96,5 +96,13 @@ The one on GitHub right now is **[Marauder Mini v3 — Cyberpunk Edition](https:
 [![GitHub](https://img.shields.io/badge/GitHub-@cgarey2014-0A0F14?style=for-the-badge&logo=github&logoColor=C9D1D9)](https://github.com/cgarey2014)
 
 <sub><code>root@localhost:~# stay curious · break it in the lab · document the fix</code></sub>
+
+</div>
+
+---
+
+<div align="center">
+
+[![WDGWars](https://wdgwars.pl/card/5144-CUQZFGGE.svg)](https://wdgwars.pl/)
 
 </div>
